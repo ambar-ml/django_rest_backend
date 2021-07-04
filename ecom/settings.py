@@ -159,7 +159,7 @@ REST_FRAMEWORK = {
 
 
 CORS_ALLOWED_ORIGINS = [
-    'django-rest-backend-ecom.herokuapp.com',
+    'https://django-rest-backend-ecom.herokuapp.com',
 ]
 
 
