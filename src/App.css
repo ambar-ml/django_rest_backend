@@ -1,0 +1,60 @@
+body .carousel-item {
+  height: 95vh;
+  
+  
+  
+  
+  
+}
+
+.success {
+  border-color: #04AA6D;
+  color: green;
+}
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+.card-text{
+  font-size:19px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+
+.carousel{
+  background-color: black;
+  
+}
+
+.dropdown-menu{
+  background-color: black;
+}
+
+.w-100 {
+  width: 100% ;
+  height: 100vh;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.btn-space{
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
